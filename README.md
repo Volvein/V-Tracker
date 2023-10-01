@@ -6,3 +6,7 @@ C:\Windows\Temp
 
 ### Screenshots
 ![App Screenshot](https://github.com/Volvein/V-Tracker/blob/main/Readme/01-10-2023-10-21-32.png)
+![App Screenshot](https://github.com/Volvein/V-Tracker/blob/main/Readme/01-10-2023-10-21-42.png)
+![App Screenshot](https://github.com/Volvein/V-Tracker/blob/main/Readme/01-10-2023-10-21-52.png)
+![App Screenshot](https://github.com/Volvein/V-Tracker/blob/main/Readme/01-10-2023-10-22-02.png)
+

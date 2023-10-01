@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!--<ApplicationManifest>app.manifest</ApplicationManifest>
+    <GenerateManifests>true</GenerateManifests>-->
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>asd (1).ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="asd (1).ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AForge" Version="2.2.5" />
+    <PackageReference Include="AForge.Video" Version="2.2.5" />
+    <PackageReference Include="AForge.Video.DirectShow" Version="2.2.5" />
+    <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="7.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="7.0.11" />
+    <PackageReference Include="Microsoft.PowerShell.CoreCLR.Eventing" Version="7.2.14" />
+    <PackageReference Include="Microsoft.PowerShell.SDK" Version="7.2.14" />
+    <PackageReference Include="NAudio" Version="2.2.1" />
+    <PackageReference Include="SQLitePCLRaw.core" Version="2.1.6" />
+    <PackageReference Include="System.Drawing.Common" Version="7.0.0" />
+    <PackageReference Include="System.Management" Version="7.0.2" />
+    <PackageReference Include="System.Management.Automation" Version="7.2.14" />
+    <PackageReference Include="TaskScheduler" Version="2.10.1" />
+    <PackageReference Include="Topshelf" Version="4.3.0" />
+    <PackageReference Include="Uno.UI" Version="4.10.26" />
+  </ItemGroup>
+
+</Project>
